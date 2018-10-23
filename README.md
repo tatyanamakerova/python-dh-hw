@@ -4,6 +4,6 @@
 
 |№|Описание|Ссылка на работу|
 |---|:---:|---:|
-|**1**|README|[HW0]()|
-|**2**|---|---|
+|**1**|README|[HW0](https://github.com/tatyanamakerova/python-dh-hw/blob/master/README.md)|
+|**2**|Домашнее задание №1|[HW1](https://github.com/tatyanamakerova/python-dh-hw/blob/master/HW1.ipynb)|
 |**3**|---|---|
