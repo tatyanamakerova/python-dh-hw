@@ -6,4 +6,6 @@
 |---|:---:|---:|
 |**1**|README|[HW0](https://github.com/tatyanamakerova/python-dh-hw/blob/master/README.md)|
 |**2**|Домашнее задание №1|[HW1](https://github.com/tatyanamakerova/python-dh-hw/blob/master/HW1.ipynb)|
-|**3**|---|---|
+|**3**|Домашнее задание №2|[HW2](https://github.com/tatyanamakerova/python-dh-hw/blob/master/HW2.ipynb)|
+|**4**|Домашнее задание №3|[HW3](https://github.com/tatyanamakerova/python-dh-hw/blob/master/HW3.ipynb)|
+|**4**|Домашнее задание №4|[HW4](https://github.com/tatyanamakerova/python-dh-hw/blob/master/HW4.ipynb)|
